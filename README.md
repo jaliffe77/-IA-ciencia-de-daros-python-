@@ -1,2 +1,2 @@
-# -IA-ciencia-de-daros-python-
+#ciencia_datos
 praticas  python by bosch
